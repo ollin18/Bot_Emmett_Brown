@@ -1,0 +1,12 @@
+from ollin18/botbrown
+
+MAINTAINER Ollin Demian Langle Chimal <ollin.langle@ciencias.unam.mx>
+
+ENV REFRESHED_AT 2017-12-03
+
+COPY src/ src/
+COPY data/ data/
+
+WORKDIR src
+
+CMD ["./mentions.py"]
