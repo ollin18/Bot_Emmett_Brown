@@ -3,4 +3,4 @@ This is a bot trained to talk like Doc Emmett Brown from Back to the Future seri
 The dockerized versions are available through the Dockerfiles... so, just run the ```exec.sh``` file.
 
 I have a Twitter bot up and running using this
-<a href="https://twitter.com/BotEmmettBrown" rel="Bot Emmett Brown">![Bot](https://github.com/ollin18/Bot_Emmett_Brown/blob/master/figs/Screenshot_20171209_145343.png=200x)</a>
+<a href="https://twitter.com/BotEmmettBrown" rel="Bot Emmett Brown">![Bot](https://github.com/ollin18/Bot_Emmett_Brown/blob/master/figs/Screenshot_20171209_145343.png)</a>
